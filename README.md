@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @caharcolt
+- 👀 I’m interested in "пиво и успех"
+- 🌱 I’m currently learning "Python / C++"
+- 💞️ I’m looking to collaborate on "Мейби бейби"
+- 📫 How to reach me: Telegram @caharcolt
